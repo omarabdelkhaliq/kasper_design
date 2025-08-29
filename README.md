@@ -1,2 +1,2 @@
 # kasper_design
-kasper web
+https://omarabdelkhaliq.github.io/kasper_design/
